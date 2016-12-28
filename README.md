@@ -9,3 +9,7 @@
 然后在当前目录运行
 
 ```edp webserver start```
+
+截图
+
+<img src="./img/skybox.png" style="max-width: 500px">
